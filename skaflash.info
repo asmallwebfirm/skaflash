@@ -1,1 +1,6 @@
 name = SkaFlash
+description = Drupal integration with SkaFlash.
+package = Other
+core = 7.x
+
+files[] = skaflash.test
